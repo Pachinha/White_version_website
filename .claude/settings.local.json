@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "WebFetch(domain:localhost)",
+      "Bash(curl *)",
+      "Bash(cp \"/c/Users/josep/Desktop/pachinha_logo.png\" \"/c/Users/josep/Desktop/pachinha-site-version-2/pachinha-site/public/logo.png\")",
+      "Bash(cp \"/c/Users/josep/Desktop/Hero_image_pachina.png\" \"/c/Users/josep/Desktop/pachinha-site-version-2/pachinha-site/public/hero.png\")",
+      "Bash(python3 -c ' *)",
+      "Bash(python -c ' *)",
+      "Bash(python3 *)",
+      "Bash(node *)",
+      "Bash(where puppeteer *)",
+      "Bash(where playwright *)",
+      "Bash(where chromium *)",
+      "Bash(where \"chromium-browser\")",
+      "Read(//c/Program Files/Google/Chrome/Application//**)"
+    ]
+  }
+}
